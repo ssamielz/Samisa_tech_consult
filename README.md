@@ -4,9 +4,9 @@ A simple web project to demonstrate HTML, CSS and variable declaration in Js
 ## Table of Contents
 - [Home](#homepage)
 - [About](#about)
-- Gallery(#gallery)
-- Contact(#contactus)
-- Table(#table)
+- [Gallery](#gallery)
+- [Contact](#contactus)
+- [Table](#table)
 
 ### 1.Home
 Brief description of personal tech company idea and what services and products it would offer.
@@ -22,3 +22,10 @@ A contact form where people can upload their details to allow the company to con
 
 ### 5.Table
 A simple display of usage of HTML to create tables and in this case an invoice.
+
+## Technologies Used
+1.HTML
+2.CSS
+3.JS
+
+
