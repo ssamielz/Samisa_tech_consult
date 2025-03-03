@@ -1,4 +1,4 @@
-img {
+img.logo{
     height: 150px;
     width: 150px;
     float: left;
@@ -68,4 +68,24 @@ section#networking {
     position: fixed;
     top: 10px;
     right: 10px;   
+}
+div.about {
+    clear: left;
+}
+div#gallery{
+    clear: left;
+   
+}
+div.invoice {
+    clear: left;
+}
+#networking {
+    clear: left;
+}
+.contactform {
+    clear: left;
+}
+
+div.clear-images{
+    clear: left;
 }
